@@ -1,0 +1,2 @@
+Created in Spring 2022 by Sam Hopper and Mike Deng for IB Biology classrooms. Emulates a study conducted by the University of Washington for students to calculate the average radius of sea urchins in the Amchitka Islands, Alaska. Students compare the size of sea urchins in a prosperous kelp forest and a barren kelp forest. Utilized Eclipse IDE and JFrame for Java visuals and a graphical user interface, further expanded ability for
+collaboration, and working with clients.
